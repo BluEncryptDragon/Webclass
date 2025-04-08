@@ -1,0 +1,19 @@
+{
+  "name": "webclass",
+  "version": "1.0.0",
+  "description": "This is the project for the class work of MCSD 51",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BluEncryptDragon/Webclass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BluEncryptDragon/Webclass/issues"
+  },
+  "homepage": "https://github.com/BluEncryptDragon/Webclass#readme"
+}
